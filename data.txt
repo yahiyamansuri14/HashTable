@@ -1,0 +1,4 @@
+ hash is the hash code of list.key that is appropriate for the new table size.  The next two lines add the node pointed to by list onto the head of the linked list in the new table at position number hash.
+Move all the nodes in linked list number i into the new table.No new ListNodes are created.  The existing ListNode for each key/value pair is moved to the newtable.  This is done by changing the "next" pointer in the node and by making a pointer in the new table point to the node.
+ hash is the hash code of list.key that is appropriate for the new table size.  The next two lines add the node pointed to by list onto the head of the linked list in the new table at position number hash.
+Move all the nodes in linked list number i into the new table.No new ListNodes are created.  The existing ListNode for each key/value pair is moved to the newtable.  This is done by changing the "next" pointer in the node and by making a pointer in the new table point to the node.
